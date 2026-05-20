@@ -34,6 +34,8 @@
 ## 🚀 Projects:
 - 🔹 Smart Face Based Auntentication System 
 - 🔹 Web Development
+- 🔹 DeepFake Image Identification
+ 
 
 
 ---
