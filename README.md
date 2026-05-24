@@ -36,6 +36,7 @@
 - 🔹 Smart Face Based Auntentication System 
 - 🔹 Web Development
 - 🔹 DeepFake Image Identification
+- 🔹AI VOice Assistant - TITAN AI
  
 
 
