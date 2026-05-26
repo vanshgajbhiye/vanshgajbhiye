@@ -15,7 +15,7 @@
   
 - 🤝 I’m looking for help to land me a great job
 
-- 👨‍💻 All of my Major projects are available at 3-d-portfolio-ngoj.vercel.app
+- 👨‍💻 All of my Major projects are available at https://3-d-portfolio-ngoj.vercel.app/index.html
  
 - 📫 Email: gajbhiyevansh27@gmail.com 
 
