@@ -7,9 +7,10 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Computer Science and Data Science Engineering  
-- 🌱 Learning Machine Learning & DSA 
-- 💡 Interested in AI and Machine Learning Model  
+- 🎓 I'm currently Studying Computer Science Engineering (Data Science)  
+- 🌱 I'm currently Learning Machine Learning & DSA 
+- 💡 Interested in AI and Machine Learning Model
+- 🤝 I’m looking for help to land me a great job 
 - 📫 Email: gajbhiyevansh27@gmail.com 
 
 ---
