@@ -50,7 +50,7 @@
 - 🔹 Smart Face Based Auntentication System 
 - 🔹 Web Development
 - 🔹 DeepFake Image Identification
-- 🔹AI Voice Assistant - TITAN AI
+- 🔹AI Voice Assistant - TARA AI
  
 
 
