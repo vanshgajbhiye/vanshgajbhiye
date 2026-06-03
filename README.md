@@ -51,6 +51,7 @@
 - 🔹 Web Development
 - 🔹 DeepFake Image Identification
 - 🔹AI Voice Assistant - TARA AI
+- 🔹LLMs - Powered - RAG
  
 
 
