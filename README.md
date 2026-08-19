@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 - 🎓 I'm currently Studying Computer Science Engineering (Data Science)
   
-- 🌱 I'm currently Learning Machine Learning & DSA
+- 🌱 I'm currently Learning DSA & Machine Learning
  
 - 💡 Interested in AI and Machine Learning Model
   
