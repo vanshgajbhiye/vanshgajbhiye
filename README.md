@@ -57,11 +57,12 @@
 ---
 
 ## 🚀 Projects:
-- 🔹 Smart Face Based Auntentication System 
-- 🔹 Web Development
-- 🔹 DeepFake Image Identification
+- 🔹Smart Face Based Auntentication System 
+- 🔹Web Development
+- 🔹DeepFake Image Identification
 - 🔹AI Voice Assistant - TARA AI
 - 🔹LLMs - Powered - RAG
+- 🔹Heart --- ATTACK -- Prediction
  
 
 
